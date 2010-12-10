@@ -1,0 +1,11 @@
+{
+  "name": "Oinak",
+  "description": "Subscribe to «Oinak on the Web»",
+  "version": "1.0.1",
+  "icons": { "128": "128.png" },
+  "app": {
+    "urls": [ "http://oinak.com/" ],
+    "launch": { "web_url": "http://oinak.com/" }
+  },
+  "permissions": []
+}
